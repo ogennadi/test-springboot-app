@@ -1,5 +1,8 @@
-###
-GET localhost:8080/hello-world
+### env
+GET localhost:8080/env
+
+### sh
+GET localhost:8080/sh
 
 
 ###
